@@ -1,7 +1,2 @@
-echo "# AmesHousePrice" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/KaraVVI/AmesHousePrice.git
-git push -u origin main
+# House Prices - Advanced Regression Techniques
+[link to Kaggle] (House Prices - Advanced Regression Techniques)
